@@ -1,6 +1,6 @@
 ## Hi there, I am Ankur 👋
 
-## I'm a Father, Tester, and Data Enthusiast!!
+## I'm a Father, Tester by blood, Data Enthusiast and Analyst by passion!!
 
 - 🔭 I’m currently working on BI iniatives...
 - 🌱 I’m currently learning AWS and Python...
